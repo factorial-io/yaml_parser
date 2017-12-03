@@ -1,0 +1,5 @@
+name = YAML Parser
+description = "API module to parse YAML-files"
+package = Custom
+core = 7.x
+dependencies[] = libraries
